@@ -125,7 +125,7 @@ These are observations, not proven weaknesses.
 ## Evidence collected
 
 - Screenshots of every task (folder `screenshots/`)
-- Network topology exported from Zenmap: [`topology.pdf`](topology.pdf)
+- Network topology exported from Zenmap: [`topology.pdf`](topology.pdf.pdf)
 - Full penetration testing report: [`Pentest_Report.pdf`](Pentest_Report.pdf)
 
 ## What I learned
